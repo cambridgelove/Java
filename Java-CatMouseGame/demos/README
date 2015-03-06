@@ -1,0 +1,4 @@
+Section 10 of the spec gives info on the demo games.  The
+X.initial.txt files give the initial configuraion of each game.  The
+X.out files give the whole play through of the game according to our
+implementation. 

@@ -1,0 +1,497 @@
+Playing 4 rounds
+
+Initial
+
+  0M  
+   ---
+  1M  
+   ---
+   ---
+   ---
+  2C  
+  3XXX
+  5M  
+  4( )
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
+
+======================
+Round 1
+======================
+0 mouse's turn
+0 mouse: I'm staying here
+  0M  
+   ---
+  1M  
+   ---
+   ---
+   ---
+  2C  
+  3XXX
+  5M  
+  4( )
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
+1 mouse's turn
+1 mouse: Targetting 4
+1 mouse: Going from (2,0) to (3,0)
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+  5M  
+  4( )
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
+2 cat's turn
+2 cat: Targetting 5
+2 cat: I can't move there
+3 brick: Ha ha
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+  5M  
+  4( )
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
+5 mouse's turn
+5 mouse: Targetting 4
+5 mouse: Safe at last
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
+6 cat's turn
+6 cat: Targetting 5
+6 cat: Pesky hole is in my way
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
+7 mouse's turn
+7 mouse: Targetting 4
+7 mouse: Going from (12,0) to (11,0)
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+  8C  
+   ---
+
+8 cat's turn
+8 cat: Going from (13,0) to (14,0)
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+======================
+Round 2
+======================
+0 mouse's turn
+0 mouse: I'm staying here
+  0M  
+   ---
+   ---
+  1M  
+   ---
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+1 mouse's turn
+1 mouse: Going from (3,0) to (4,0)
+  0M  
+   ---
+   ---
+   ---
+  1M  
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+2 cat's turn
+2 cat: I can't move there
+3 brick: Ha ha
+  0M  
+   ---
+   ---
+   ---
+  1M  
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+6 cat's turn
+6 cat: Pesky hole is in my way
+  0M  
+   ---
+   ---
+   ---
+  1M  
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+7 mouse's turn
+7 mouse: I can't move there
+6 cat: Ha ha
+  0M  
+   ---
+   ---
+   ---
+  1M  
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+8 cat's turn
+8 cat: (15,0) is outside the room!
+  0M  
+   ---
+   ---
+   ---
+  1M  
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+======================
+Round 3
+======================
+0 mouse's turn
+0 mouse: I'm staying here
+  0M  
+   ---
+   ---
+   ---
+  1M  
+   ---
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+1 mouse's turn
+1 mouse: Going from (4,0) to (5,0)
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+2 cat's turn
+2 cat: I can't move there
+3 brick: Ha ha
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+6 cat's turn
+6 cat: Pesky hole is in my way
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+7 mouse's turn
+7 mouse: I can't move there
+6 cat: Ha ha
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+8 cat's turn
+8 cat: (15,0) is outside the room!
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+======================
+Round 4
+======================
+0 mouse's turn
+0 mouse: I'm staying here
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+1 mouse's turn
+1 mouse: I can't move there
+2 cat: Ha ha
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+2 cat's turn
+2 cat: I can't move there
+3 brick: Ha ha
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+6 cat's turn
+6 cat: Pesky hole is in my way
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+7 mouse's turn
+7 mouse: I can't move there
+6 cat: Ha ha
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+8 cat's turn
+8 cat: (15,0) is outside the room!
+  0M  
+   ---
+   ---
+   ---
+   ---
+  1M  
+  2C  
+  3XXX
+   ---
+  5Mok
+  6C  
+  7M  
+   ---
+   ---
+  8C  
+
+Max rounds reached

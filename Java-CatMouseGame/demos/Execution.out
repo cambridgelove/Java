@@ -1,0 +1,96 @@
+Playing 5 rounds
+
+Initial
+
+  0C  
+   ---
+  1M  
+  2M  
+   ---
+
+
+======================
+Round 1
+======================
+0 cat's turn
+0 cat: Going from (0,0) to (1,0)
+   ---
+  0C  
+  1M  
+  2M  
+   ---
+
+1 mouse's turn
+1 mouse: Targeting -1
+1 mouse: I don't know where to go!
+   ---
+  0C  
+  1M  
+  2M  
+   ---
+
+2 mouse's turn
+2 mouse: Targeting -1
+2 mouse: I don't know where to go!
+   ---
+  0C  
+  1M  
+  2M  
+   ---
+
+======================
+Round 2
+======================
+0 cat's turn
+1 mouse: Farewell cruel world
+0 cat to 1 mouse: Dinner is served
+   ---
+   ---
+  1rip
+  2M  
+   ---
+
+2 mouse's turn
+2 mouse: Targeting -1
+2 mouse: I don't know where to go!
+   ---
+   ---
+  1rip
+  2M  
+   ---
+
+======================
+Round 3
+======================
+0 cat's turn
+2 mouse: Farewell cruel world
+0 cat to 2 mouse: Dinner is served
+   ---
+   ---
+  1rip
+  2rip
+   ---
+
+======================
+Round 4
+======================
+0 cat's turn
+0 cat: Going from (3,0) to (4,0)
+   ---
+   ---
+  1rip
+  2rip
+  0C  
+
+======================
+Round 5
+======================
+0 cat's turn
+0 cat: (5,0) is outside the room!
+   ---
+   ---
+  1rip
+  2rip
+  0C  
+
+Max rounds reached

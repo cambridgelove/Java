@@ -1,0 +1,20 @@
+Playing 4 rounds
+
+Initial
+
+  0M  
+   ---
+  1M  
+   ---
+   ---
+   ---
+  2C  
+  3XXX
+  5M  
+  4( )
+  6C  
+   ---
+  7M  
+  8C  
+   ---
+
